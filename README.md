@@ -48,22 +48,6 @@ Credit_card_KAN_code/
 
 ---
 
-## Installation
-
-1. **Clone** the repository  
-   ```bash
-   git clone https://github.com/<your‑handle>/credit‑card‑KAN.git
-   cd credit_card_KAN
-   ```
-2. **Create** and activate a fresh Python 3.10 environment (conda or venv).  
-3. **Install** dependencies  
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Download** the three public datasets into the `Datasets/` directory.
-
----
-
 ## Reproducing the Experiments
 
 1. **Pre-process** each dataset using the scripts in `Preprocessing/`.  
